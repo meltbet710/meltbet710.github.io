@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-ossjs.0101bet1.com	TRUE	/	FALSE	1999999999	__cf_bm	K6T9fd4wHVHnZk95467oi2wtx.TA2r7QaHjYiNzeZpg-1774558673.9796228-1.0.1.1-.07kz5teMqJO2RtCCJNOfy2nJw7x11u3LZXsTGzmyqgnKkKIXtsdYQxwI3fBn00wfcteEpc4vAJ1wdGI.ifpqjkEKvG1Djoa3PqNqUY9t8pxC6yY6mvG5cb7rx.gY3AI
-
